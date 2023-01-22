@@ -12,7 +12,7 @@ Newbie hobbyist Haxe programmer!
 ---------------------------------------
 
 # Projects I'm contributing/working
-- ## 🔭 Camellia 2.5 as Lead Coder (Priority for now)
+- ## 🔭 Camellia 2.5 as Lead Coder 
 - I've never imagined to work on my favorite mod. Shoutouts for Camellia and Holofunk team for inviting me to work.
 - ## 🌱 [My Kade-Engine fork](https://github.com/BoloVEVO/Kade-Engine-Public)
 - My custom fork of Kade Engine that fixes all the bugs of the latest release with some features.
