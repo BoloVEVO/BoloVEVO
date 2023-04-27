@@ -1,6 +1,7 @@
 # Hey Vsauce, Bolo here! 😈
 
 Newbie hobbyist Haxe programmer! 
+Retired for now.
 
 ---------------------------------------
 
