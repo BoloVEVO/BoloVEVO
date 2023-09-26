@@ -1,6 +1,6 @@
 # Hey Vsauce, Bolo here! 😈
 
-Newbie hobbyist Haxe programmer! 
+Newbie hobbyist Flixel coder! 
 Retired for now.
 
 ---------------------------------------
