@@ -1,4 +1,4 @@
-# Hey Vsauce, Bolo here! 😈
+# Hey Vsauce, Bolo here!
 
 Newbie hobbyist Flixel coder! 
 Retired for now.
@@ -6,21 +6,21 @@ Retired for now.
 ---------------------------------------
 
 - 😄 Pronouns: he/him 
-- 🌍 Languages: I mainly speak Spanish and English as you see 🤓
-- 📱 Discord: Bolo#0001 (no furry porn pls)
-- ⚡ Fun fact: I fced Sex mod with a single hand 😎
+- 🌍 Languages: Spanish/English
+- 📱 Discord: bolovevo
+- ⚡ Fun fact: No more fun facts D:
 
 ---------------------------------------
 
 # Projects I worked on:
 - ## 🔭 Camellia 2.5 as Lead Coder 
-- I've never imagined to work on my favorite mod. Shoutouts for Camellia and Holofunk team for inviting me to work. I left the team.
+- I've never imagined to work on my favorite mod. Shoutouts for Camellia and Holofunk team for inviting me to work. I left the team anyways kek.
 - ## 🐌 vs Snail's house as Programmer assistant
 - Mod is coming soon :D
 - ## 🎵 Friday Night Voltex: Devilish Dance
-- Spin-off from original FNV with a new titty character. Also first mod featuring my Kade Engine fork :D (At least for 1.0)
+- Spin-off from original FNV with a new hotty character.
 - ## 🌱 [My Kade-Engine fork](https://github.com/BoloVEVO/Kade-Engine-Public)
-- My custom fork of Kade Engine that fixes all the bugs of the latest release with some features. I'll be working on the repo when I get in the mood again.
+- My custom fork of Kade Engine that fixes all the bugs of the latest release with some features. 
 
 Uh and that's all :D
 
