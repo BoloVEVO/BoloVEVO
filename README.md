@@ -1,7 +1,7 @@
 # Hey Vsauce, Bolo here!
 
 Newbie hobbyist Flixel coder! 
-Retired for now.
+Working in some of my free time.
 
 ---------------------------------------
 
@@ -23,6 +23,7 @@ Retired for now.
 - My custom fork of Kade Engine that fixes all the bugs of the latest release with some features. 
 
 Uh and that's all :D
+Ah yeah no more jokes because I'm using this github account for college things too :P 
 
 
 <!--
