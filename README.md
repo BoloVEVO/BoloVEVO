@@ -1,7 +1,7 @@
 # Hey Vsauce, Bolo here!
 
 Newbie hobbyist Flixel coder! 
-Working in some of my free time.
+Sometimes working during my free time.
 
 ---------------------------------------
 
