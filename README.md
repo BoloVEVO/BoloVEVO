@@ -1,29 +1,29 @@
 # Hey Vsauce, Bolo here!
 
-Newbie hobbyist Flixel coder! 
-Sometimes working during my free time.
+Hobbyist coder, I code in my free time!
 
 ---------------------------------------
 
-- 😄 Pronouns: he/him 
-- 🌍 Languages: Spanish/English
-- 📱 Discord: bolovevo
-- ⚡ Fun fact: No more fun facts D:
-
+## Some info about me
+- 🌱 Currently Learning: `Pawn for AMXMODX` and `Java`
+- 🎓 3rd Semester of Mechatronic Engineering
+- 📫 My Discord: `bolovevo`
+  
 ---------------------------------------
 
-# Projects I worked on:
-- ## 🔭 Camellia 2.5 as Lead Coder 
-- I've never imagined to work on my favorite mod. Shoutouts for Camellia and Holofunk team for inviting me to work. I left the team anyways kek.
-- ## 🐌 vs Snail's house as Programmer assistant
-- Mod is coming soon :D
-- ## 🎵 Friday Night Voltex: Devilish Dance
-- Spin-off from original FNV with a new hotty character.
-- ## 🌱 [My Kade-Engine fork](https://github.com/BoloVEVO/Kade-Engine-Public)
-- My custom fork of Kade Engine that fixes all the bugs of the latest release with some features. 
+## Main programming languages
+  [![My Skills](https://skillicons.dev/icons?i=haxe)](https://skillicons.dev)
+  
+---------------------------------------
 
-Uh and that's all :D
-Ah yeah no more jokes because I'm using this github account for college things too :P 
+## Main projects I'm working on:
+- 🎵 Friday Night Voltex: Cosmic Candence
+- 🌱 [My fork of FNF Kade Engine](https://github.com/BoloVEVO/Kade-Engine-Public)
+
+## Projects I worked on (or abandoned in worse cases):
+- FNF vs Camellia 2.5
+- FNF vs Snail's house
+- FNF vs Camellia ALT
 
 
 <!--
