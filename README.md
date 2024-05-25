@@ -7,7 +7,7 @@ Hobbyist coder, I code in my free time!
 ## Some info about me
 - 🌱 Currently Learning: `Pawn for AMXMODX` and `Java`
 - 🎓 3rd Semester of Mechatronic Engineering
-- 📫 My Discord: `bolovevo`
+- 📫 My Discord: `notbolo24`
   
 ---------------------------------------
 
