@@ -6,7 +6,7 @@ Hobbyist coder, I code in my free time!
 
 ## Some info about me
 - 🌱 Currently Learning: `Pawn for AMXMODX` and `Java`
-- 🎓 3rd Semester of Mechatronic Engineering
+- 🎓 5th Semester of Mechatronic Engineering
 - 📫 My Discord: `notbolo24`
   
 ---------------------------------------
@@ -20,7 +20,7 @@ Hobbyist coder, I code in my free time!
 - 🎵 Friday Night Voltex: Cosmic Candence
 - 🌱 [My fork of FNF Kade Engine](https://github.com/BoloVEVO/Kade-Engine-Public)
 
-## Projects I worked on (or abandoned in worse cases):
+## Projects I worked on:
 - FNF vs Camellia 2.5
 - FNF vs Snail's house
 - FNF vs Camellia ALT
