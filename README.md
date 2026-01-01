@@ -2,28 +2,21 @@
 
 Hobbyist coder, I code in my free time!
 
+Working on:
+- FNF vs Camellia 3.0
+- CS 1.6 Zombie Classic (check my discord server: [discord.gg/Q5ARfDmCzp](https://discord.gg/Q5ARfDmCzp)).
+
 ---------------------------------------
 
 ## Some info about me
 - 🌱 Currently Learning: `Pawn for AMXMODX` and `Java`
-- 🎓 5th Semester of Mechatronic Engineering
+- 🎓 7th Semester of Mechatronic Engineering
 - 📫 My Discord: `notbolo24`
   
 ---------------------------------------
 
 ## Main programming languages
   [![My Skills](https://skillicons.dev/icons?i=haxe)](https://skillicons.dev)
-  
----------------------------------------
-
-## Main projects I'm working on:
-- 🎵 Friday Night Voltex: Cosmic Candence
-- 🌱 [My fork of FNF Kade Engine](https://github.com/BoloVEVO/Kade-Engine-Public)
-
-## Projects I worked on:
-- FNF vs Camellia 2.5
-- FNF vs Snail's house
-- FNF vs Camellia ALT
 
 
 <!--
